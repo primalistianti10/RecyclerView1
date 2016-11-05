@@ -2,4 +2,5 @@
 <resources>
     <item name="imageViewJudul" type="id" />
     <item name="recyclerView" type="id" />
+    <item name="textViewJudul" type="id" />
 </resources>
